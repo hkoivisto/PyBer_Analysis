@@ -40,9 +40,9 @@ Urban cities generate the most revenue for PyBer as a whole. The total number of
 
 ### Recommendations
 
-    - PyBer can increase profitablility by increasing rides in rural areas. To do this, promotional rates could be offered to first time riders.
-    - One deterent for rural and suburban riders are long wait times for pick up due to driver shortage. To combat this, PyBer can advertise high average fare per driver rates in suburban and rural areas to encourage more drivers to sign up.
-    - Ride demand appears steady in urban cities, so to increase average fare per ride, a small base price could be added to all fares.
+- PyBer can increase profitablility by increasing rides in rural areas. To do this, promotional rates could be offered to first time riders.
+- One deterent for rural and suburban riders are long wait times for pick up due to driver shortage. To combat this, PyBer can advertise high average fare per driver rates in suburban and rural areas to encourage more drivers to sign up.
+- Ride demand appears steady in urban cities, so to increase average fare per ride, a small base price could be added to all fares.
 
 
 
